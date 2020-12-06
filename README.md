@@ -1,7 +1,7 @@
 ## Hungry-Dog
 
 **게임소개 동영상**
- https://youtu.be/B47hyYGVSqM
+ https://youtu.be/SAxK3_0FttM
 
 
 **게임 소개**
